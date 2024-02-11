@@ -14,7 +14,6 @@ npx ts-node bot.ts
 5. PROFIT
 
 ## Naive algorithm
-If there is only 45 seconds left,
-If I am a not a buyer in the last 40 buy 1 envelop.
+If there is only 10 seconds left,
 
 Feel free to modify the bot code as you see fit! This is a starting naive bot implementation.
